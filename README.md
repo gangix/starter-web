@@ -8,3 +8,7 @@ Sample website with plenty of files for demos
 
 olcay
 Devops
+
+##GIT COMPARISION
+Adding git comparison Lectures
+CEREN
